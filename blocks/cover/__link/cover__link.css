@@ -1,0 +1,21 @@
+.cover__link{
+	text-decoration: none;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1;
+}
+@media screen and (max-width: 320px){
+	.cover__link{
+		font-size: 32px;
+		width: 75%;
+		margin: 0 auto;
+	}
+}

@@ -1,0 +1,25 @@
+.lead__image-way{
+	max-width: 984px;
+	height: 615px;
+	background-image: url(../../../images/lead-way.png);
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+@media screen and (min-width: 320px){
+	.lead__image-way{
+		width: 100%;
+		height: 200px;
+		
+	}
+}
+@media screen and (min-width: 768px){
+	.lead__image-way{
+		width: 100%;
+		height: 480px;
+		
+	}
+}
