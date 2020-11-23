@@ -8,7 +8,7 @@
 	box-sizing: border-box;
 	/*border: 1px red solid;*/
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 572px){
 	.place__website {
 		display: none;
 	}

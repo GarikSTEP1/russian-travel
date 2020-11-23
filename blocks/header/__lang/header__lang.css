@@ -6,8 +6,9 @@
 	min-width: 77px;
 	margin: 0;
 	padding: 0;
+	/*border: 1px red solid;*/
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 390px){
 	.header__lang{
 		min-width: 62px;
 	}

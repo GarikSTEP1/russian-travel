@@ -1,0 +1,13 @@
+.cover__margin-bottom {
+	margin-bottom: 92px;
+}
+@media screen and (max-width: 768px){
+	.cover__margin-bottom {
+		margin-bottom: 88px;
+	}
+}
+@media screen and (max-width: 320px){
+	.cover__margin-bottom {
+		margin-bottom: 64px;
+	}
+}

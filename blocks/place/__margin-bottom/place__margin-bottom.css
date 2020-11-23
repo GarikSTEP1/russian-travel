@@ -1,0 +1,14 @@
+.place__margin-bottom{
+	margin-bottom: 80px;
+}
+.place__margin-bottom:last-child{
+	margin-bottom: 0;
+}
+@media screen and (max-width: 320px){
+	.place__margin-bottom {
+	margin-bottom: 48px;
+}
+@media screen and (max-width: 768px){
+	.place__margin-bottom {
+	margin-bottom: 72px;
+}

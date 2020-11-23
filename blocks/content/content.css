@@ -1,0 +1,19 @@
+.content{
+	margin-top: 56px;
+	margin-bottom: 92px;
+}
+@media screen and (max-width: 1024px) {
+	.content{
+		margin-top: 48px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.content{
+		margin-bottom: 48px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.content{
+		margin-bottom: 64px;
+	}
+}
