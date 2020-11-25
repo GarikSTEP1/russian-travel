@@ -4,7 +4,7 @@
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: flex-start;
-	/*border: 1px rgb(68, 0, 255) solid;*/
+	/*border: 1px red solid;*/
 	box-sizing: border-box;
 }
 @media screen and (max-width: 572px){

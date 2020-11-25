@@ -7,8 +7,23 @@
 	min-height: 52px;
 	/*border: 1px solid red;*/
 }
+@media screen and (max-width: 1250px){
+	.header {
+		max-width: calc(100% - 96px);
+	}
+}
+@media screen and (max-width: 1024px){
+	.header {
+		max-width: 928px;
+	}
+}
+@media screen and (max-width: 950px){
+	.header {
+		max-width: calc(100% - 48px);
+	}
+}
 @media screen and (max-width: 320px){
-	.header{
-		min-height: 42px;
+	.header {
+		max-width: calc(100% - 32px);
 	}
 }

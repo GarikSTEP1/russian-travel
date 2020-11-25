@@ -1,19 +1,11 @@
-.content{
-	margin-top: 56px;
-	margin-bottom: 92px;
+.content {
+	max-width: 1184px;
+	margin: 0 auto;
+	/*border: 1px red solid;*/
+	
 }
-@media screen and (max-width: 1024px) {
-	.content{
-		margin-top: 48px;
-	}
-}
-@media screen and (max-width: 768px) {
-	.content{
-		margin-bottom: 48px;
-	}
-}
-@media screen and (max-width: 320px) {
-	.content{
-		margin-bottom: 64px;
+@media screen and (max-width: 1024px){
+	.content {
+		max-width: 928px;
 	}
 }

@@ -1,0 +1,8 @@
+.header_bottom-part{
+	margin-bottom: 56px;
+}
+@media screen and (max-width: 1024px){
+	.header_bottom-par {
+		margin-bottom: 48px;
+	}
+}

@@ -1,0 +1,21 @@
+.place_bottom-part{
+	margin-bottom: 80px;
+}
+.place_bottom-part:last-child{
+	margin-bottom: 0;
+}
+@media screen and (max-width: 1024px){
+	.place_bottom-part {
+		margin-bottom: 80px;
+	}
+}
+@media screen and (max-width: 768px){
+	.place_bottom-part {
+		margin-bottom: 72px;
+	}
+}
+@media screen and (max-width: 320px){
+	.place_bottom-part {
+		margin-bottom: 48px;
+	}
+}

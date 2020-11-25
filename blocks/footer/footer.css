@@ -6,3 +6,23 @@
 	align-items: center;
 	/*border: 1px red solid;*/
 }
+@media screen and (max-width: 1250px){
+	.footer {
+		max-width: calc(100% - 96px);
+	}
+}
+@media screen and (max-width: 1024px){
+	.footer {
+		max-width: 928px;
+	}
+}
+@media screen and (max-width: 950px){
+	.footer {
+		max-width: calc(100% - 48px);
+	}
+}
+@media screen and (max-width: 320px){
+	.footer {
+		max-width: calc(100% - 32px);
+	}
+}
