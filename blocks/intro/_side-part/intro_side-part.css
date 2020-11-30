@@ -1,0 +1,23 @@
+.intro_side-part{
+	padding: 0;
+}
+@media screen and (max-width: 960px) {
+	.intro_side-part {
+		padding: 0 24px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.intro_side-part {
+		padding: 0;
+	}
+}
+@media screen and (max-width: 740px) {
+	.intro_side-part {
+		padding: 0 16px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.intro_side-part {
+		padding: 0;
+	}
+}

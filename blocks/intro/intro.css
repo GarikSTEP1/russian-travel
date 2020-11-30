@@ -3,18 +3,18 @@
 	margin: 0 auto;
 	/*border: 1px red solid;*/
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
 	.intro {
 		max-width: 928px;
 	}
 }
-@media screen and (max-width: 950px){
+@media screen and (max-width: 768px) {
 	.intro {
-		max-width: calc(100% - 48px);
+		max-width: 720px;
 	}
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 320px) {
 	.intro {
-		max-width: calc(100% - 32px);
+		max-width: 288px;
 	}
 }

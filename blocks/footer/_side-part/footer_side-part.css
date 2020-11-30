@@ -1,0 +1,33 @@
+.footer_side-part{
+	padding: 0;
+}
+@media screen and (max-width: 1220px) {
+	.footer_side-part{
+		padding: 0 48px;
+	}
+}
+@media screen and (max-width: 1024px) {
+	.footer_side-part {
+		padding: 0;
+	}
+}
+@media screen and (max-width: 960px) {
+	.footer_side-part {
+		padding: 0 24px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.footer_side-part {
+		padding: 0;
+	}
+}
+@media screen and (max-width: 740px) {
+	.footer_side-part {
+		padding: 0 16px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.footer_side-part {
+		padding: 0;
+	}
+}

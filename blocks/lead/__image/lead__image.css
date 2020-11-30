@@ -1,8 +1,6 @@
 .lead__image{
 	width: 100%;
-	display: block;
 	object-fit: cover;
-	position: relative;
 	margin: 0 auto 8px;
 	/*border: 1px red solid;*/
 }

@@ -11,7 +11,7 @@
 .cover:before {
 content: '';
 display: block;
-padding-bottom: 62%;
+padding-bottom: 62.5%;
 top: 0;
 right: 0;
 bottom: 0;

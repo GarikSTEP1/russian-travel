@@ -1,5 +1,4 @@
 .dark{
-	/*position: relative;*/
 }
 .dark:before {
 	content: '';

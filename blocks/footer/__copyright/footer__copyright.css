@@ -1,16 +1,9 @@
 .footer__copyright{
-	/*border: 1px red solid;*/
-	display: inline-block;
 	margin: 0;
 	font-weight: 400;
 	font-size: 14px;
 }
-@media screen and (max-width: 768px){
-	.footer__copyright{
-		display: inline-block;
-	}
-}
-@media screen and (max-width: 700px){
+@media screen and (max-width: 740px){
 	.footer__copyright{
 		display: none;
 	}

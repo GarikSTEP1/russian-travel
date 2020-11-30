@@ -1,14 +1,10 @@
 .place__website {
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-	align-items: flex-start;
-	margin: 0 0 48px 0px;
-	width: 50%;
 	box-sizing: border-box;
 	/*border: 1px red solid;*/
+	grid-area: website;
+	align-self: end;
 }
-@media screen and (max-width: 572px){
+@media screen and (max-width: 740px){
 	.place__website {
 		display: none;
 	}

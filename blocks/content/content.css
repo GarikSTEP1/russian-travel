@@ -1,11 +1,6 @@
 .content {
-	max-width: 1184px;
+	/*border: 1px rgb(43, 255, 0) solid;*/
+	box-sizing: border-box;
+	width: 100%;
 	margin: 0 auto;
-	/*border: 1px red solid;*/
-	
-}
-@media screen and (max-width: 1024px){
-	.content {
-		max-width: 928px;
-	}
 }

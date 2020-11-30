@@ -8,7 +8,7 @@
 	padding: 0;
 	/*border: 1px red solid;*/
 }
-@media screen and (max-width: 390px){
+@media screen and (max-width: 740px){
 	.header__lang{
 		min-width: 62px;
 	}

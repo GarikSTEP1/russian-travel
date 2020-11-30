@@ -6,8 +6,3 @@
 	padding: 0;
 	margin: 0;
 }
-@media screen and (max-width: 338px){
-	.intro__list {
-	font-size: 11px;
-	}
-}
