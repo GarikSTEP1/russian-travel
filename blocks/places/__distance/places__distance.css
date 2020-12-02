@@ -1,17 +1,17 @@
-.place_bottom-part{
+.places__distance{
 	margin-bottom: 80px;
 }
-.place_bottom-part:last-child{
+.places__distance:last-child{
 	margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
-	.place_bottom-part {
+	.places__distance {
 		margin-bottom: 72px;
 	}
 }
 @media screen and (max-width: 320px) {
-	.place_bottom-part {
+	.places__distance{
 		margin-bottom: 48px;
 	}
 }

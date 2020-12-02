@@ -1,13 +1,13 @@
-.distance_bottom-part{
+.content__distance{
 	margin-bottom: 92px;
 }
 @media screen and (max-width: 768px) {
-	.distance_bottom-part {
+	.content__distance {
 		margin-bottom: 88px;
 	}
 }
 @media screen and (max-width: 320px) {
-	.distance_bottom-part {
+	.content__distance {
 		margin-bottom: 64px;
 	}
 }
