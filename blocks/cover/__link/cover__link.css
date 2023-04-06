@@ -1,0 +1,21 @@
+.cover__link {
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+}
+
+.cover__link::before {
+    background-color: #2A2C2F;
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 30%;
+    transition: opacity 0.7s ease;
+}
+
+.cover__link:hover:before {
+    opacity: 80%;
+}
