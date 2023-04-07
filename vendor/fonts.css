@@ -14,7 +14,7 @@
     src: url(../fonts/Inter-Black.woff2) format('woff2'),
          url(../fonts/Inter-Black.woff) format('woff');
     font-family: 'Inter';
-    font-weight: 800;
+    font-weight: 900;
 }
 
 -webkit-font-smoothing: antialiased;
